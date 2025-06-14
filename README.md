@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Crafting Intelligent Solutions | Full-Stack Developer , and Data-Driven Applications</h3>
+<h3 align="center">Crafting Intelligent Solutions | Full-Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar535&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar535" /> </p>
 
