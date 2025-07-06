@@ -16,86 +16,88 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-3123a03k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-kumar-3123a03k/" height="30" width="40" /></a>
 </p>
 
-<div style="max-width: 800px; margin: 30px auto; padding: 25px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); background-color: #1e1e1e; text-align: center;">
-  <h2 style="color: white; margin-bottom: 20px; font-family: Arial, sans-serif;">🚀 Tech Stack</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="max-width: 100%; overflow-x: auto; padding: 20px; background-color: #1e1e1e; border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); white-space: nowrap; text-align: left;">
+  <h2 style="color: white; margin-bottom: 15px; font-family: Arial, sans-serif;">🚀 Tech Stack</h2>
+  
+  <div style="display: inline-flex; gap: 20px;">
     <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
       </div>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" title="C">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
       </div>
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
       </div>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
       </div>
     </a>
     <a href="https://expressjs.com" target="_blank" title="Express.js">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
       </div>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
       </div>
     </a>
     <a href="https://www.java.com" target="_blank" title="Java">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
       </div>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
       </div>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
       </div>
     </a>
     <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
       </div>
     </a>
     <a href="https://nodejs.org" target="_blank" title="Node.js">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
       </div>
     </a>
     <a href="https://www.python.org" target="_blank" title="Python">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
       </div>
     </a>
     <a href="https://reactjs.org/" target="_blank" title="React">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
       </div>
     </a>
     <a href="https://redux.js.org" target="_blank" title="Redux">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
       </div>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-      <div style="background-color: white; padding: 6px; border-radius: 10px;">
+      <div style="background-color: white; padding: 8px; border-radius: 10px;">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
       </div>
     </a>
   </div>
 </div>
+
 
 
 
