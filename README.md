@@ -16,10 +16,10 @@
   <a href="https://ayushportfolio-one.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://drive.google.com/file/d/1ABCUAFQi0iRBktX7_BSmvLo5EyM5ZsmB/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1UwJqNjKcdDJlplKDeQav8wJ4oTUHR5TX/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0e75b6?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
-  <a href="https://www.linkedin.com/in/ayush-kumar-3123a03k/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush1kumar-3123ak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ayushrana03dec2003@gmail.com" target="_blank">
@@ -29,11 +29,11 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ayushkumar535&theme=radical&margin-w=15" alt="GitHub Trophies" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,mysql,mongodb&perline=8" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,flask,mysql,mongodb&perline=8" alt="Tech Stack Icons" />
   </a>
 </div>
 
