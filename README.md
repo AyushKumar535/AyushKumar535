@@ -16,13 +16,13 @@
   <a href="https://ayushportfolio-one.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://drive.google.com/file/d/1ABCUAFQi0iRBktX7_BSmvLo5EyM5ZsmB/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1UwJqNjKcdDJlplKDeQav8wJ4oTUHR5TX/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0e75b6?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
-  <a href="https://www.linkedin.com/in/ayush-kumar-3123a03k/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush1kumar-3123ak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ayushrana03dec2003@gmail.com" target="_blank">
+  <a href="ayushrana03dec2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -32,7 +32,7 @@
 ### ⚡ Quick Facts About Me
 - 🔭 **Currently focused on:** Building scalable Full-Stack MERN applications.
 - 🌱 **Continually learning:** Advanced React patterns, System Design, and refining my problem-solving skills.
-- 💬 **Ask me about:** JavaScript, C++, React, and building robust APIs.
+- 💬 **Ask me about:** JavaScript, Python, React, and building robust APIs.
 - 💼 **Open to:** Full-time Software Engineering and Full-Stack Developer roles!
 
 ---
@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,mysql,mongodb,git,github,vscode,postman&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,mysql,Flask,mongodb,git,github,vscode,postman&perline=10" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -54,9 +54,9 @@
 | <img src="https://via.placeholder.com/350x180.png?text=Add+Note+App+GIF" width="350"> | <img src="https://via.placeholder.com/350x180.png?text=Add+Quiz+GIF" width="350"> | <img src="https://via.placeholder.com/350x180.png?text=Add+Summarizer+GIF" width="350"> |
 | A robust full-stack application for creating, organizing, and managing personal notes with seamless data synchronization. | An interactive assessment platform featuring real-time scoring, dynamic question rendering, and an intuitive UI. | An intelligent utility tool designed to extract key insights from lengthy texts, providing concise and accurate summaries. |
 | **Tech:** React, Node.js, MongoDB, Express | **Tech:** React, JavaScript, Tailwind CSS | **Tech:** JavaScript, API Integration, UI/UX |
-| [Live Demo]([INSERT LIVE DEMO LINK]) <br/> [Source Code](https://github.com/AyushKumar535/note-takin-app) | [Live Demo]([INSERT LIVE DEMO LINK]) <br/> [Source Code](https://github.com/AyushKumar535/Quiz_Platform) | [Live Demo]([INSERT LIVE DEMO LINK]) <br/> [Source Code]([INSERT REPO LINK]) |
+| [Live Demo]([INSERT LIVE DEMO LINK]) <br/> [Deployed]([https://github.com/AyushKumar535/note-takin-app]) | [Deployed]([https://note-taking-8lwgc7i61-ayushkumars-projects.vercel.app/]) <br/> [Source Code](https://ayushkumar535.github.io/Quiz_Platform/) | [Live Demo]([INSERT LIVE DEMO LINK]) <br/> [Source Code]([https://github.com/AyushKumar535/Note-Summarizer]) |
 
-*(Note to Recruiters: Click the Live Demo links above to see my code in action!)*
+
 
 ---
 
