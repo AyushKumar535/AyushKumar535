@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,mysql,Flask,mongodb,git,github,vscode,postman&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,mysql,flask,mongodb,git,github,vscode,postman&perline=10" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -54,7 +54,7 @@
 | <img src="https://via.placeholder.com/350x180.png?text=Add+Note+App+GIF" width="350"> | <img src="https://via.placeholder.com/350x180.png?text=Add+Quiz+GIF" width="350"> | <img src="https://via.placeholder.com/350x180.png?text=Add+Summarizer+GIF" width="350"> |
 | A robust full-stack application for creating, organizing, and managing personal notes with seamless data synchronization. | An interactive assessment platform featuring real-time scoring, dynamic question rendering, and an intuitive UI. | An intelligent utility tool designed to extract key insights from lengthy texts, providing concise and accurate summaries. |
 | **Tech:** React, Node.js, MongoDB, Express | **Tech:** React, JavaScript, Tailwind CSS | **Tech:** JavaScript, API Integration, UI/UX |
-| [Live Demo]([INSERT LIVE DEMO LINK]) <br/> [Deployed]([https://github.com/AyushKumar535/note-takin-app]) | [Deployed]([https://note-taking-8lwgc7i61-ayushkumars-projects.vercel.app/]) <br/> [Source Code](https://ayushkumar535.github.io/Quiz_Platform/) | [Live Demo]([INSERT LIVE DEMO LINK]) <br/> [Source Code]([https://github.com/AyushKumar535/Note-Summarizer]) |
+| [Live Deployed](https://github.com/AyushKumar535/note-takin-app) | [Live Deployed](https://ayushkumar535.github.io/Quiz_Platform/) | [Live Demo]([INSERT LIVE DEMO LINK]) <br/> [Source Code](https://github.com/AyushKumar535/Note-Summarizer) |
 
 
 
