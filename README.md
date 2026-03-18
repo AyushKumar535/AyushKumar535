@@ -30,7 +30,7 @@
 <br/>
 
 ### ⚡ Quick Facts About Me
-- 🔭 **Currently focused on:** Building scalable Full-Stack MERN applications.
+- 🔭 **Currently focused on:** Building scalable Full-Stack Applications.
 - 🌱 **Continually learning:** Advanced React patterns, System Design, and refining my problem-solving skills.
 - 💬 **Ask me about:** JavaScript, Python, React, and building robust APIs.
 - 💼 **Open to:** Full-time Software Engineering and Full-Stack Developer roles!
