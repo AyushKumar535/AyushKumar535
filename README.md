@@ -54,7 +54,7 @@
 | <img src="https://via.placeholder.com/350x180.png?text=Add+Note+App+GIF" width="350"> | <img src="https://via.placeholder.com/350x180.png?text=Add+Quiz+GIF" width="350"> | <img src="https://via.placeholder.com/350x180.png?text=Add+Summarizer+GIF" width="350"> |
 | A robust full-stack application for creating, organizing, and managing personal notes with seamless data synchronization. | An interactive assessment platform featuring real-time scoring, dynamic question rendering, and an intuitive UI. | An intelligent utility tool designed to extract key insights from lengthy texts, providing concise and accurate summaries. |
 | **Tech:** React, Node.js, MongoDB, Express | **Tech:** React, JavaScript, Tailwind CSS | **Tech:** JavaScript, API Integration, UI/UX |
-| [Live Deployed](https://note-taking-8lwgc7i61-ayushkumars-projects.vercel.app/) | [Live Deployed](https://ayushkumar535.github.io/Quiz_Platform/) | [Source Code](https://github.com/AyushKumar535/Note-Summarizer) |
+| [Live Deployed](https://note-taking-8lwgc7i61-ayushkumars-projects.vercel.app/) | [Live Deployed](https://ayushkumar535.github.io/Quiz_Platform/) | [Live Deployed](https://note-summarizer-kohl.vercel.app/) |
 
 
 
